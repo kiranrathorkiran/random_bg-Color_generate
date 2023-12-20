@@ -1,0 +1,26 @@
+body{
+    text-transform: uppercase;
+}
+div{
+    height: 40px;
+    width:150px;
+    border:2px solid black;
+    margin:10px;
+    padding: auto;
+    font-size:30px;
+    color:white;
+    font-weight: 600;
+}
+#start , #stop
+{
+    height: 30px;
+    width:60px;
+    background-color: black;
+    color: white;
+    font-size:20px;
+    border:2px solid black;
+    border-radius: 40px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
